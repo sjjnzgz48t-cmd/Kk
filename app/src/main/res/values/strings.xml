@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">кк</string>
+    <string name="greeting">Привіт 👋</string>
+    <string name="empty_state">Тут поки що пусто — інтерфейс буде додано пізніше</string>
+</resources>
